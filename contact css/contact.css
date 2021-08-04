@@ -1,0 +1,42 @@
+.topnav {
+    background-color:tan;
+    overflow: hidden;
+  }
+  
+ 
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color:darkolivegreen;
+    color: black;
+  }
+  #but {
+    background-color: darkolivegreen; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+.footer{
+    background-color:beige;
+}
+#maps{
+ float:inline-end;
+ 
+}
+.content{
+    background-color:cornsilk;
+}
+textarea{
+    background-color: transparent;
+}
