@@ -34,7 +34,7 @@
     border: 2px solid ;
 }
 h1{
-    background-image: url(/about.jpg);
+    background-image: url(./about.jpg);
     opacity: 0.8;
     color: var(--dark);
     font-weight: bolder;
